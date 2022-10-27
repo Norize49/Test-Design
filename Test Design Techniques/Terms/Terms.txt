@@ -1,0 +1,10 @@
+Get a set of data using the test design to check the following fields in the dialog 
+windows "Add an Expense" and "Edit an Expense":
+
+- Report Date
+
+- Mileage
+
+- Number of Liters
+
+- Total Cost
